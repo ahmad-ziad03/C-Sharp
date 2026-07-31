@@ -25,7 +25,7 @@ class Program
 
         //TASK 3
         Console.WriteLine("TASK 3");
-        Console.WriteLine("Enter A String");
+        Console.WriteLine("Enter a String");
         Console.WriteLine(Console.ReadLine());
 
         //TASK 4
