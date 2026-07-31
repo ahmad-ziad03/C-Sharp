@@ -220,7 +220,7 @@ class Program
         //            Console.Write("1");
         //        else if (j == 1 || j == width)    // صفوف الحواف
         //            Console.Write("1");
-        //        else                              // وسط فاضي
+        //        else                              // وسط فاضي.
         //            Console.Write(" ");
         //    }
         //    Console.WriteLine();
